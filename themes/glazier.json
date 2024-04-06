@@ -4,7 +4,7 @@
   "author": "Nicole Muzzin",
   "themes": [
     {
-      "name": "Phantom",
+      "name": "Glazier | Phantom",
       "appearance": "dark",
       "style": {
         "background": "#00000077",
@@ -25,11 +25,11 @@
         "editor.gutter.background": "#00000000",
         "editor.background": "#00000000",
         "background.appearance": "blurred",
-        "elevated_surface.background": "#000033DD"
+        "elevated_surface.background": "#000011FF"
       }
     },
     {
-      "name": "Redrum",
+      "name": "Glazier | Redrum",
       "appearance": "dark",
       "style": {
         "background": "#00000000",
@@ -45,15 +45,14 @@
         "tab.inactive_background": "#00000000",
         "tab.active_background": "#FF000033",
         "panel.focused_border": "#FF000033",
-        // "editor.foreground": "#FF000077",
         "editor.active_line.background": "#FF000022",
         "editor.gutter.background": "#00000000",
         "editor.background": "#00000000",
-        "background.appearance": "blurry"
+        "background.appearance": "transparent"
       }
     },
     {
-      "name": "Deep Space",
+      "name": "Glazier | Deep Space",
       "appearance": "dark",
       "style": {
         "background": "#170D2677",
