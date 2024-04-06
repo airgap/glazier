@@ -1,0 +1,7 @@
+id = "glazier"
+name = "Glazier"
+version = "0.0.0"
+schema_version = 1
+authors = ["Nicole Muzzin"]
+description = "Glassy themes for Zed"
+repository = "https://github.com/airgap/glazier"

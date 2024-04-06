@@ -1,0 +1,16 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "@types/bun": "latest"
+  },
+  "name": "glazier",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "format": "prettier -w ."
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
