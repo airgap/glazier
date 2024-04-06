@@ -6,7 +6,7 @@ Glassy themes for Zed
 
 ### Deep Space
 
-![deep-space-bg](https://www.shredded.space/content/images/2022/06/spacepool2a-1.png)
+![deep-space-bg](https://www.shredded.space/content/images/2024/04/spacepool2a-1.png)
 
 ### Redrum
 
