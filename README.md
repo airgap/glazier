@@ -8,6 +8,6 @@ Glassy themes for Zed
 
 ![deep-space-bg](https://www.shredded.space/content/images/2022/06/spacepool2a-1.png)
 
-### Reddy or Not
+### Redrum
 
-![reddy-or-not](https://www.shredded.space/content/images/size/w1600/2024/04/foo.png)
+![redrum](https://www.shredded.space/content/images/size/w1600/2024/04/foo.png)
