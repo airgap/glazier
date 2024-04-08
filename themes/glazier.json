@@ -76,6 +76,32 @@
         "element.background": "#6F3FB8FF",
         "elevated_surface.background": "#170D26FF"
       }
+    },
+    {
+      "name": "Glazier | Berry Pink",
+      "appearance": "dark",
+      "style": {
+        "background": "#40002377",
+        "terminal.background": "#00000000",
+        "border": "#00000000",
+        "status_bar.background": "#00000000",
+        "text": "#FFFFFFDD",
+        "text.accent": "#FFCCCCDD",
+        "text.muted": "#FFFFFF88",
+        "tab_bar.background": "#00000000",
+        "toolbar.background": "#00000000",
+        "panel.background": "#00000000",
+        "title_bar.background": "#00000000",
+        "tab.inactive_background": "#00000000",
+        "tab.active_background": "#6F3FB833",
+        "panel.focused_border": "#FF000033",
+        "editor.active_line.background": "#6F3FB822",
+        "editor.gutter.background": "#00000000",
+        "editor.background": "#00000000",
+        "background.appearance": "blurred",
+        "element.background": "#6F3FB8FF",
+        "elevated_surface.background": "#170D26FF"
+      }
     }
   ]
 }
