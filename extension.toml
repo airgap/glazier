@@ -1,6 +1,6 @@
 id = "glazier"
 name = "Glazier"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["Nicole Muzzin"]
 description = "Glassy themes for Zed"
