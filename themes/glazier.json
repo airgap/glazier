@@ -7,7 +7,7 @@
       "name": "Glazier | Phantom",
       "appearance": "dark",
       "style": {
-        "background": "#00000077",
+        "background": "#000000AA",
         "terminal.background": "#00000000",
         "border": "#00000000",
         "status_bar.background": "#00000000",
@@ -29,33 +29,10 @@
       }
     },
     {
-      "name": "Glazier | Redrum",
-      "appearance": "dark",
-      "style": {
-        "background": "#00000000",
-        "border": "#00000000",
-        "status_bar.background": "#00000000",
-        "text": "#FFFFFFDD",
-        "text.accent": "#FFCCCCDD",
-        "text.muted": "#FFFFFF88",
-        "tab_bar.background": "#00000000",
-        "toolbar.background": "#00000000",
-        "panel.background": "#00000000",
-        "title_bar.background": "#00000000",
-        "tab.inactive_background": "#00000000",
-        "tab.active_background": "#FF000033",
-        "panel.focused_border": "#FF000033",
-        "editor.active_line.background": "#FF000022",
-        "editor.gutter.background": "#00000000",
-        "editor.background": "#00000000",
-        "background.appearance": "transparent"
-      }
-    },
-    {
       "name": "Glazier | Deep Space",
       "appearance": "dark",
       "style": {
-        "background": "#170D2677",
+        "background": "#170D26AA",
         "terminal.background": "#00000000",
         "border": "#00000000",
         "status_bar.background": "#00000000",
@@ -81,7 +58,7 @@
       "name": "Glazier | Berry Pink",
       "appearance": "dark",
       "style": {
-        "background": "#40002377",
+        "background": "#400023AA",
         "terminal.background": "#00000000",
         "border": "#00000000",
         "status_bar.background": "#00000000",
